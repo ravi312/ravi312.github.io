@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+title: ravi sinha
+description: educator | researcher | maker
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
