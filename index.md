@@ -6,11 +6,11 @@ I am deeply interested in designing user experiences and learning environments w
 
 ## Conference Participation
 
-**Sinha, R.**, Date, G., & Chandrasekharan, S. (forthcoming Nov 2021). Full Paper. Embodied Learning in Makerspaces._Rodrigo, M. M. T. et al. (Eds.) (2021). Proceedings of the 29th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education,10._
+**Sinha, R.**, Date, G., & Chandrasekharan, S. (forthcoming Nov 2021). Full Paper. Embodied Learning in Makerspaces. Rodrigo, M. M. T. et al. (Eds.) (2021). _Proceedings of the 29th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education,10._
 
-**Sinha, R.** & Dhakulkar, A. (2021, June).  Abstracts (with oral presentations) & Poster. [Exploring Turtle Blocks in an online collaborative environment.](https://repository.isls.org/bitstream/1/7330/1/255-256.pdf) _Hmelo-Silver, C. E., De Wever, B., & Oshima, J. (Eds.). (2021). Proceedings of the 14th International Conference on Computer-Supported Collaborative Learning - CSCL 2021. Bochum, Germany (Online Event): International Society of the Learning Sciences., 2._
+**Sinha, R.** & Dhakulkar, A. (2021, June).  Abstracts (with oral presentations) & Poster. [Exploring Turtle Blocks in an online collaborative environment.](https://repository.isls.org/handle/1/7330) Hmelo-Silver, C. E., De Wever, B., & Oshima, J. (Eds.). (2021). _Proceedings of the 14th International Conference on Computer-Supported Collaborative Learning - CSCL 2021. Bochum, Germany (Online Event): International Society of the Learning Sciences., 2._
 
-Karnam, DP., **Sinha, R.**, & Pardeshi, A. (2020, June). Abstracts (with oral presentations) & Poster. [Figuring the 'making' with Indian teachers: Can we re-imagine STEM learning?.](https://repository.isls.org/bitstream/1/6549/1/2339-2340.pdf) _In Gresalfi M., & Horn, I. S. (Eds.). Proceedings of The Interdisciplinarity of the Learning Sciences, 14th The International Conference of the Learning Sciences (ICLS) 2020, Volume 4. (pp. 2339-2340), Nashville, Tennessee: (Online): International Society of the Learning Sciences._
+Karnam, DP., **Sinha, R.**, & Pardeshi, A. (2020, June). Abstracts (with oral presentations) & Poster. [Figuring the 'making' with Indian teachers: Can we re-imagine STEM learning?.](https://repository.isls.org/handle/1/6549) In Gresalfi M., & Horn, I. S. (Eds.). _Proceedings of The Interdisciplinarity of the Learning Sciences, 14th The International Conference of the Learning Sciences (ICLS) 2020, Volume 4. (pp. 2339-2340), Nashville, Tennessee: (Online): International Society of the Learning Sciences._
 
 ## Articles
 
