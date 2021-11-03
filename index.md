@@ -1,5 +1,5 @@
 <img src=".assets/../assets/img/pic-default.png" align="right" width="200">
-I am a maker-educator and researcher. I started my journey in the area of recreational Science Education designing simple toys and activities that can be used to elicit scientific concepts. Later, I got interested in Makerspaces and worked closely with groups that are exploring challenges and possibilities to bring maker-focussed education to mainstream education. 
+I am a maker-educator and researcher. I started my journey in the area of recreational Science Education designing simple toys and activities that can be used to elicit scientific concepts. Later, I got interested in Makerspaces and worked closely with groups that are exploring challenges and possibilities to bring maker-focussed education to mainstream education.  
 I am deeply interested in designing user experiences and learning environments which affords diverse participation in context of maker-centered STEM education. Currently, I am working in [LSR group, HBCSE](https://lsr.hbcse.tifr.res.in/) (at the interesection of learning sciences and makerspace), exploring ideas related to Embodied Cognition (EC) to understand the nature of learning in Making & Tinkering (M&T) practices. I also enjoy being part of outreach endeavours in the area of science communication.
 
 > **Research Interests** _Embodied Cognition, DBR, Computational tinkering, Maker-Movement, Science Communication, DIY STEM Toys, Constructionism_
@@ -36,7 +36,7 @@ Collaborator: Vivek Pradhan. A mobile app with curated hands-on science projects
 
 ### Animated Science Communication Videos
 
-Collection of animated science popularization films which I worked on:  [Playlist](https://www.youtube.com/watch?v=b0NM_mjo7QE&list=PLTtqYIBJI7Zd2itCZNZVNRgToOwJFhYGs)
+Worked on the following collection of animated science popularization films:  [Playlist](https://www.youtube.com/watch?v=b0NM_mjo7QE&list=PLTtqYIBJI7Zd2itCZNZVNRgToOwJFhYGs)
 
 [Danger of Space Travel without Spacesuit (CLI, IITGN)](https://www.youtube.com/watch?v=9qZQOJ-eMf8&list=PLTtqYIBJI7Zd2itCZNZVNRgToOwJFhYGs&index=6)  
 [![Danger of Space Travel without Spacesuit (CLI, IITGN)](/assets/img/th_ani_space.png)](https://www.youtube.com/watch?v=9qZQOJ-eMf8&list=PLTtqYIBJI7Zd2itCZNZVNRgToOwJFhYGs&index=6)
