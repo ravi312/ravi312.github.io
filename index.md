@@ -18,6 +18,20 @@ Jain, M. & **Sinha,R.** (2017). **"Aakho me chamak" ("Gleam in the eyes")**, a b
 
 Dhakulkar, A., & **Sinha, R.** (2021, November). The not so random story. Teacher Plus. [https://www.teacherplus.org/the-not-so-random-story/](https://www.teacherplus.org/the-not-so-random-story/)
 
+## Projects
+
+### [BirdApp](https://birds.hbcse.tifr.res.in/)
+[![](./assets/img/birdapp.png)](https://birds.hbcse.tifr.res.in/)
+Collaborator: Adithi Muralidhar. An interactive Educational Resource depicting some common species found across India to inspire educators (and any curious individual) to initiate conversation around nature observation. Beta version was launched on World Environment Day, 2021. 
+
+### [metaStudio](https://metastudio.org)
+[![](./assets/img/metaStudio.png)](https://metastudio.org)
+Principal Investigator: Prof Nagarjuna G. Core team in design and implementation of the metastudio, a conversation-first platform for the STEM community, with 1500+ members since Jul 19; Active contributor to crafting and curation of STEM-rich tinkering challenges; Members are encouraged to engage in process documentation during making as well as share their feedback with others; Platform has provision of granting [badges](https://metastudio.org/badges) when an academic habit is demonstrated; Initiated dedicated discourse space [turtleChat](https://metastudio.org/c/turtlechat/35) to support exploration of computational concepts.
+
+### [TinkerApp](https://tinkerapp.github.io/)
+[![](./assets/img/tinkerapp.png)](https://tinkerapp.github.io/)
+Collaborator: Vivek Pradhan. A mobile app with curated hands-on science projects; Downloaded by 10000+ educators/children worldwide.
+
 ## Outreach
 
 ### Animated Science Communication Videos
@@ -38,17 +52,3 @@ Collection of animated science popularization films which I worked on:  [Playlis
 
 [How much land does a man need? Part 2 Proof (CLI, IITGN)](https://www.youtube.com/watch?v=lmcGF4lghc4&list=PLTtqYIBJI7Zd2itCZNZVNRgToOwJFhYGs&index=7)  
 [![How much land does a man need? Part 2 Proof](/assets/img/th_ani_land2.png)](https://www.youtube.com/watch?v=lmcGF4lghc4&list=PLTtqYIBJI7Zd2itCZNZVNRgToOwJFhYGs&index=7)
-
-## Projects
-
-### [BirdApp](https://birds.hbcse.tifr.res.in/)
-[![](./assets/img/birdapp.png)](https://birds.hbcse.tifr.res.in/)
-Collaborator: Adithi Muralidhar. An interactive Educational Resource depicting some common species found across India to inspire educators (and any curious individual) to initiate conversation around nature observation. Beta version was launched on World Environment Day, 2021. 
-
-### [metaStudio](https://metastudio.org)
-[![](./assets/img/metaStudio.png)](https://metastudio.org)
-Principal Investigator: Prof Nagarjuna G. Core team in design and implementation of the metastudio, a conversation-first platform for the STEM community, with 1500+ members since Jul 19; Active contributor to crafting and curation of STEM-rich tinkering challenges; Members are encouraged to engage in process documentation during making as well as share their feedback with others; Platform has provision of granting [badges](https://metastudio.org/badges) when an academic habit is demonstrated; Initiated dedicated discourse space [turtleChat](https://metastudio.org/c/turtlechat/35) to support exploration of computational concepts.
-
-### [TinkerApp](https://tinkerapp.github.io/)
-[![](./assets/img/tinkerapp.png)](https://tinkerapp.github.io/)
-Collaborator: Vivek Pradhan. A mobile app with curated hands-on science projects; Downloaded by 10000+ educators/children worldwide.
