@@ -6,7 +6,7 @@ I am deeply interested in designing user experiences and learning environments w
 
 ## Conference Participation
 
-**Sinha, R.**, Date, G., & Chandrasekharan, S. (2021,Nov). Full Paper (with oral presentations). [Embodied Learning in Makerspaces. Rodrigo, M. M. T. et al. (Eds.) (2021).](./assets/pdf/icce-2021.pdf) _Proceedings of the 29th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education,10._ [ Slides](./assets/pdf/icce-slides-2021.pdf) 
+**Sinha, R.**, Date, G., & Chandrasekharan, S. (2021, Nov). Full Paper (with oral presentations). [Embodied Learning in Makerspaces. Rodrigo, M. M. T. et al. (Eds.) (2021).](./assets/pdf/icce-2021.pdf) _Proceedings of the 29th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education,10._ [ Slides](./assets/pdf/icce-slides-2021.pdf) 
 
 **Sinha, R.** & Dhakulkar, A. (2021, June).  Abstracts (with oral presentations) & Poster. [Exploring Turtle Blocks in an online collaborative environment.](https://repository.isls.org/handle/1/7330) Hmelo-Silver, C. E., De Wever, B., & Oshima, J. (Eds.). (2021). _Proceedings of the 14th International Conference on Computer-Supported Collaborative Learning - CSCL 2021. Bochum, Germany (Online Event): International Society of the Learning Sciences., 2._[ Slides](https://ravi312.github.io/CSCL2021/)
 
