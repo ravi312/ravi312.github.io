@@ -22,11 +22,11 @@ Dhakulkar, A., & **Sinha, R.** (2021, November). The not so random story. Teache
 
 ### [BirdApp](https://birds.hbcse.tifr.res.in/)
 [![](./assets/img/birdapp.png)](https://birds.hbcse.tifr.res.in/)
-Collaborator: Adithi Muralidhar. An interactive Educational Resource depicting some common species found across India to inspire educators (and any curious individual) to initiate conversation around nature observation. Beta version was launched on World Environment Day, 2021. 
+Collaborator: [Adithi Muralidhar.](https://dnte.hbcse.tifr.res.in/members/adithi-muralidhar/) An interactive Educational Resource depicting some common species found across India to inspire educators (and any curious individual) to initiate conversation around nature observation. Beta version was launched on World Environment Day, 2021. 
 
 ### [metaStudio](https://metastudio.org)
 [![](./assets/img/metaStudio.png)](https://metastudio.org)
-Principal Investigator: Prof Nagarjuna G. Core team in design and implementation of the metastudio, a conversation-first platform for the STEM community, with 1500+ members since Jul 19; Active contributor to crafting and curation of STEM-rich tinkering challenges; Members are encouraged to engage in process documentation during making as well as share their feedback with others; Platform has provision of granting [badges](https://metastudio.org/badges) when an academic habit is demonstrated; Initiated dedicated discourse space [turtleChat](https://metastudio.org/c/turtlechat/35) to support exploration of computational concepts.
+Principal Investigator: [Prof Nagarjuna G.](https://www.hbcse.tifr.res.in/people/former-members/nagarjuna-g/nagarjuna-g) Core team in design and implementation of the metastudio, a conversation-first platform for the STEM community, with 1500+ members since Jul 19; Active contributor to crafting and curation of STEM-rich tinkering challenges; Members are encouraged to engage in process documentation during making as well as share their feedback with others; Platform has provision of granting [badges](https://metastudio.org/badges) when an academic habit is demonstrated; Initiated dedicated discourse space [turtleChat](https://metastudio.org/c/turtlechat/35) to support exploration of computational concepts.
 
 ### [TinkerApp](https://tinkerapp.github.io/)
 [![](./assets/img/tinkerapp.png)](https://tinkerapp.github.io/)
