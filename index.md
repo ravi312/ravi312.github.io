@@ -6,7 +6,7 @@ I am deeply interested in designing user experiences and learning environments t
 
 ## Conference Participation
 
-**Sinha, R.**, Swanson, H., Clarke-Midura, J., Shumway, J. F., Lee, V. R., & Chandrasekharan, S. (2023). [From Embodied Doing to Computational Thinking in Kindergarten: A Punctuated Motor Control Model.](./assests/pdf/ldt23-4-final.pdf) In Learning, Design and Technology (LDT '23) (pp. 1-10). June 23, 2023, Evanston, IL, USA: ACM. https://doi.org/10.1145/3594781.3594794
+**Sinha, R.**, Swanson, H., Clarke-Midura, J., Shumway, J. F., Lee, V. R., & Chandrasekharan, S. (2023). [From Embodied Doing to Computational Thinking in Kindergarten: A Punctuated Motor Control Model.](./assets/pdf/ldt23-4-final.pdf) In Learning, Design and Technology (LDT '23) (pp. 1-10). June 23, 2023, Evanston, IL, USA: ACM. https://doi.org/10.1145/3594781.3594794
 
 **Sinha, R.**, Date, G., & Chandrasekharan, S. (2021, Nov). Full Paper (with oral presentations). [Embodied Learning in Makerspaces.](./assets/pdf/icce-2021.pdf) Rodrigo, M. M. T. et al. (Eds.) (2021)._Proceedings of the 29th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education,10._ [ Slides](./assets/pdf/icce-slides-2021.pdf) 
 
