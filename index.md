@@ -2,11 +2,13 @@
 I am a maker-educator and researcher. I started my journey in the area of recreational Science Education, designing simple toys and activities that can be used to elicit scientific concepts. Later, I became interested in Makerspaces and worked closely with groups that are exploring challenges and possibilities to bring maker-focused education to mainstream education.
 I am deeply interested in designing user experiences and learning environments that afford diverse participation in the context of maker-centered STEM education. Currently, I'm a doctoral student in the Instructional Technology and Learning Sciences program at Utah State University, exploring ideas related to Embodied Cognition (EC) to understand the nature of learning in Making & Tinkering (M&T) practices. I also enjoy being part of outreach endeavors in the area of science communication.
 
-> **Research Interests** _Embodied Cognition, DBR, Computational tinkering, Maker-Movement, Science Communication, DIY STEM Toys, Constructionism_
+> **Research Interests** _Embodied Cognition, Engineering Education, STEM Education, Makerspaces, Computational tinkering, DIY STEM Toys_
 
 ## Conference Participation
 
 **Sinha, R.**, Swanson, H., Clarke-Midura, J., Shumway, J. F., Lee, V. R., & Chandrasekharan, S. (2023). [From Embodied Doing to Computational Thinking in Kindergarten: A Punctuated Motor Control Model.](./assets/pdf/ldt23-4-final.pdf) In Learning, Design and Technology (LDT '23) (pp. 1-10). June 23, 2023, Evanston, IL, USA: ACM. [https://doi.org/10.1145/3594781.3594794](https://doi.org/10.1145/3594781.3594794)
+
+Date, G., **Sinha, R.**, & Chandrasekaran, S. (2022). [Reshaping Makerspaces to Learn Frontier Making Practices.](./assets/pdf/Reshaping_Makerspaces_to_Learn_Frontier.pdf) Proceedings of EPISTEME 9 International Conference to Review Research in Science, Technology and Mathematics Education, 9, 373–379.
 
 **Sinha, R.**, Date, G., & Chandrasekharan, S. (2021, Nov). Full Paper (with oral presentations). [Embodied Learning in Makerspaces.](./assets/pdf/icce-2021.pdf) Rodrigo, M. M. T. et al. (Eds.) (2021)._Proceedings of the 29th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education,10._ [ Slides](./assets/pdf/icce-slides-2021.pdf) 
 
