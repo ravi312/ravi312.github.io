@@ -2,7 +2,7 @@
 I am a maker-educator and researcher. I started my journey in the area of recreational Science Education, designing simple toys and activities that can be used to elicit scientific concepts. Later, I became interested in Makerspaces and worked closely with groups that are exploring challenges and possibilities to bring maker-focused education to mainstream education.
 I am deeply interested in designing user experiences and learning environments that afford diverse participation in the context of maker-centered STEM education. Currently, I'm a doctoral student in the Instructional Technology and Learning Sciences program at Utah State University, exploring ideas related to Embodied Cognition (EC) to understand the nature of learning in Making & Tinkering (M&T) practices. I also enjoy being part of outreach endeavors in the area of science communication.
 
-> **Research Interests** _Embodied Cognition, Engineering Education, STEM Education, Makerspaces, Computational tinkering, DIY STEM Toys_
+> **Research Interests** _Embodied Cognition, Makerspaces, Engineering Education, STEM Education, Computational tinkering, DIY STEM Toys_
 
 ## Conference Participation
 
