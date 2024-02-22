@@ -22,6 +22,8 @@ Karnam, DP., **Sinha, R.**, & Pardeshi, A. (2020, June). Abstracts (with oral pr
 
 ## Articles
 
+**Sinha, R.**, Pardesi, A. K., & Chari, D. (2022, June). [Nudging Students’ Designs](https://publications.azimpremjiuniversity.edu.in/4150/). I Wonder, Azim Premji University, 8, 43–46.
+
 Jain, M. & **Sinha,R.** (2017). **"Aakho me chamak" ("Gleam in the eyes")**, a booklet for doing science using simple materials alongside the scientific explanation. [(Hindi)](./assets/pdf/1-2.pdf) [(English)](./assets/pdf/1-1.pdf)
 
 Dhakulkar, A., & **Sinha, R.** (2021, November). The not so random story. Teacher Plus. [https://www.teacherplus.org/the-not-so-random-story/](https://www.teacherplus.org/the-not-so-random-story/)
