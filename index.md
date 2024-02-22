@@ -22,7 +22,7 @@ Karnam, DP., **Sinha, R.**, & Pardeshi, A. (2020, June). Abstracts (with oral pr
 
 ## Articles
 
-**Sinha, R.**, Pardesi, A. K., & Chari, D. (2022, June). [Nudging Students’ Designs](./assets/pdf/Nudging_Students_Designs.pdf). I Wonder, Azim Premji University, 8, 43–46. [URL](https://publications.azimpremjiuniversity.edu.in/4150/)
+**Sinha, R.**, Pardesi, A. K., & Chari, D. (2022, June). [Nudging Students’ Designs](./assets/pdf/Nudging_Students_Designs.pdf). I Wonder, Azim Premji University, 8, 42-46. [URL](https://publications.azimpremjiuniversity.edu.in/4150/)
 
 Jain, M. & **Sinha,R.** (2017). **"Aakho me chamak" ("Gleam in the eyes")**, a booklet for doing science using simple materials alongside the scientific explanation. [(Hindi)](./assets/pdf/1-2.pdf) [(English)](./assets/pdf/1-1.pdf)
 
