@@ -1,8 +1,6 @@
 theme: jekyll-theme-minimal
 title: ravi sinha
 description: educator | researcher | maker
-[google scholar](https://scholar.google.com/citations?user=JzOlUSQAAAAJ&hl=en)
-
 defaults:
   - scope:
       path: "assets/img"
