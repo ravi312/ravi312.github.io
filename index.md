@@ -3,6 +3,8 @@ I'm a doctoral student in the Instructional Technology and Learning Sciences pro
 
 > **Research Interests** _Embodied Cognition, Makerspaces, Engineering Sciences Education, Computational tinkering, DIY STEM Toys_
 
+A complete list of publications is available at my [google scholar](https://scholar.google.com/citations?user=JzOlUSQAAAAJ&hl=en) page.
+
 ## Conference Participation
 
 **Sinha, R.**, Swanson, H., Clarke-Midura, J., Shumway, J. F., Lee, V. R., & Chandrasekharan, S. (2023). [From Embodied Doing to Computational Thinking in Kindergarten: A Punctuated Motor Control Model.](./assets/pdf/ldt23-4-final.pdf) In Learning, Design and Technology (LDT '23) (pp. 1-10). June 23, 2023, Evanston, IL, USA: ACM. [https://doi.org/10.1145/3594781.3594794](https://doi.org/10.1145/3594781.3594794)
