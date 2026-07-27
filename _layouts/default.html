@@ -7,11 +7,14 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="{{ "/assets/css/custom.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
   </head>
-  <body>
+  <body id="top">
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -21,6 +24,33 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        <nav class="profile-links" aria-label="Profile links">
+          <a href="https://scholar.google.com/citations?user=JzOlUSQAAAAJ&hl=en"
+             target="_blank"
+             rel="noopener noreferrer"
+             aria-label="Google Scholar"
+             title="Google Scholar">
+            <i class="ai ai-google-scholar" aria-hidden="true"></i>
+          </a>
+          <a href="mailto:ravi.sinha@usu.edu"
+             aria-label="Email Ravi Sinha"
+             title="Email">
+            <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+          </a>
+        </nav>
+
+        {% if page.url == "/" %}
+        <nav class="page-toc" aria-label="Homepage sections">
+          <ul>
+            <li><a href="#hello">About</a></li>
+            <li><a href="#publications">Publications</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#teaching">Teaching</a></li>
+            <li><a href="#science-communication">Science Communication</a></li>
+          </ul>
+        </nav>
+        {% endif %}
 
         {% if site.github.is_project_page %}
         
@@ -45,6 +75,8 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/open-links.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/publication-filters.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

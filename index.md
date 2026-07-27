@@ -1,35 +1,105 @@
+## Hello!
+
 <img src=".assets/../assets/img/ravi-pic.png" align="right" width="200">
-I'm a doctoral student in the Instructional Technology and Learning Sciences program at Utah State University. I am interested in designing STEM-rich learning environments and pedagogy that foster middle school students' understanding of frontier engineering and science practices. I am curious to explore learning across both formal and informal contexts such as classrooms and makerspaces. Currently, I draw on Embodied Cognition (EC) frameworks to characterize learning as students engage in science and engineering practices.I also enjoy participating in outreach endeavors in science communication.
 
-> **Research Interests** _Embodied Cognition, Makerspaces, Engineering Sciences Education, Computational tinkering, DIY STEM Toys_
+I am a PhD candidate in Instructional Technology and Learning Sciences at Utah State University, where I work in the [Learning Dynamics Lab](https://cehhs.usu.edu/itls/projects/ldl/index.php) under the guidance of [Dr. Hillary Swanson](https://cehhs.usu.edu/itls/people/hillary-swanson). My research focuses on designing STEM-rich learning environments that weave in maker-centered, model-based, and embodied pedagogies.
 
-A complete list of publications is available at my [google scholar](https://scholar.google.com/citations?user=JzOlUSQAAAAJ&hl=en) page.
+In my current work, I use design-based research to examine how middle school students engage in epistemic practices of the engineering sciences in the domain of Avian Engineering. Using GenAI tools, I developed the [Amazing Birds](https://amazing-birds.gitlab.io/), a  microworld to introduce middle schoolers to Avian Engineering. Through this work, I characterize learners’ sensemaking as they engage with digital and physical prototypes and explore how these prototype-centered interactions shape their emerging engineering sciences thinking.
 
-## Conference Participation
+I have taught undergraduate and graduate courses in digital making, learning design, and instructional technology. I also actively participate in science communication endeavors, where I make research and scientific ideas accessible through animated stories, simulations, popular science articles, and hands-on learning experiences.
 
-**Sinha, R.**, Swanson, H., Clarke-Midura, J., Shumway, J. F., Lee, V. R., & Chandrasekharan, S. (2023). [From Embodied Doing to Computational Thinking in Kindergarten: A Punctuated Motor Control Model.](./assets/pdf/ldt23-4-final.pdf) In Learning, Design and Technology (LDT '23) (pp. 1-10). June 23, 2023, Evanston, IL, USA: ACM. [https://doi.org/10.1145/3594781.3594794](https://doi.org/10.1145/3594781.3594794)
 
-**Sinha, R.**, Kyei Mensah, P., Litts, B. K., Cardona-Rivera, R. E., & Tehee, M. (2023). [Programming time: Exploring time as a cultural construct across novice computational platforms.](https://repository.isls.org/handle/1/10137) In Blikstein, P., Van Aalst, J., Kizito, R., & Brennan, K. (Eds.), Proceedings of the 17th International Conference of the Learning Sciences - ICLS 2023 (pp. 2015-2016).
+<div class="research-interests" aria-labelledby="research-interests-label">
+  <strong id="research-interests-label">Research Interests</strong>
+  <ul class="research-tag-list">
+    <li>Embodied Cognition</li>
+    <li>Makerspaces</li>
+    <li>Engineering Sciences Education</li>
+    <li>Computational Tinkering</li>
+    <li>DIY STEM Toys</li>
+    <li>Generative AI in Learning Design</li>
+  </ul>
+</div>
 
-Date, G., **Sinha, R.**, & Chandrasekaran, S. (2022). [Reshaping Makerspaces to Learn Frontier Making Practices.](./assets/pdf/Reshaping_Makerspaces_to_Learn_Frontier.pdf) Proceedings of EPISTEME 9 International Conference to Review Research in Science, Technology and Mathematics Education, 9, 373–379.
+## Publications
 
-Forte, S., **Sinha, R.**, Chandroth, A. S., Chandrasekharan, S., & Mashood, K. K. (2022). (Abstract). [Recasting the pedagogy of derivations as loading of reality into mathematics.](https://www.academia.edu/102928419/Recasting_the_Pedagogy_of_Derivations_as_loading_of_Reality_into_Mathematics) Proceedings of the IUPAP International Conference on Physics Education 2022, 85–85.
+A complete list of publications is available on my [Google Scholar](https://scholar.google.com/citations?user=JzOlUSQAAAAJ&hl=en) page.
 
-**Sinha, R.**, Date, G., & Chandrasekharan, S. (2021, Nov). Full Paper (with oral presentations). [Embodied Learning in Makerspaces.](./assets/pdf/icce-2021.pdf) Rodrigo, M. M. T. et al. (Eds.) (2021)._Proceedings of the 29th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education,10._ [ Slides](./assets/pdf/icce-slides-2021.pdf) 
+<div class="publication-filters" role="group" aria-label="Filter publications by topic">
+  <button type="button" aria-pressed="true" aria-controls="publication-list" data-publication-filter="all">All</button>
+  <button type="button" aria-pressed="false" aria-controls="publication-list" data-publication-filter="engineering-learning">Engineering Learning</button>
+  <button type="button" aria-pressed="false" aria-controls="publication-list" data-publication-filter="embodiment-making">Embodiment &amp; Making</button>
+  <button type="button" aria-pressed="false" aria-controls="publication-list" data-publication-filter="computational-learning">Computational Learning</button>
+  <button type="button" aria-pressed="false" aria-controls="publication-list" data-publication-filter="ai-methods">AI &amp; Methods</button>
+</div>
+<p id="publication-filter-status" class="visually-hidden" aria-live="polite">Showing all 7 publications.</p>
 
-**Sinha, R.** & Dhakulkar, A. (2021, June).  Abstracts (with oral presentations) & Poster. [Exploring Turtle Blocks in an online collaborative environment.](https://repository.isls.org/handle/1/7330) Hmelo-Silver, C. E., De Wever, B., & Oshima, J. (Eds.). (2021). _Proceedings of the 14th International Conference on Computer-Supported Collaborative Learning - CSCL 2021. Bochum, Germany (Online Event): International Society of the Learning Sciences., 2._[ Slides](https://ravi312.github.io/CSCL2021/)
+<div id="publication-list">
+<article class="publication-item" data-publication-topics="embodiment-making" markdown="1">
 
-Karnam, DP., **Sinha, R.**, & Pardeshi, A. (2020, June). Abstracts (with oral presentations) & Poster. [Figuring the 'making' with Indian teachers: Can we re-imagine STEM learning?.](https://repository.isls.org/handle/1/6549) In Gresalfi M., & Horn, I. S. (Eds.). _Proceedings of The Interdisciplinarity of the Learning Sciences, 14th The International Conference of the Learning Sciences (ICLS) 2020, Volume 4. (pp. 2339-2340), Nashville, Tennessee: (Online): International Society of the Learning Sciences._
+**[Making Cognition: A Mechanism Account of the Way Humans Develop the Ability to Build and Alter Their Environments](https://doi.org/10.1007/s11229-025-05081-9)**<br>
+Sanjay Chandrasekharan, **Ravi Sinha**, and Geetanjali Date<br>
+*Synthese, 206, Article 7, 2025*<br>
+[DOI](https://doi.org/10.1007/s11229-025-05081-9)
 
-## Articles
+</article>
+<article class="publication-item" data-publication-topics="engineering-learning ai-methods" markdown="1">
 
-**Sinha, R.**, Pardesi, A. K., & Chari, D. (2022, June). [Nudging Students’ Designs](./assets/pdf/Nudging_Students_Designs.pdf). I Wonder, Azim Premji University, 8, 42-46. [URL](https://publications.azimpremjiuniversity.edu.in/4150/)
+**[Using Model-Based Reasoning to Refine Student Thinking: An ENA Analysis of Teacher Moves](https://doi.org/10.1145/3713043.3728860)**<br>
+**Ravi Sinha**, Idris Solola, Rida Munir, Hillary Swanson, and Ha Nguyen<br>
+*24th Interaction Design and Children Conference (IDC '25), 2025*<br>
+[DOI](https://doi.org/10.1145/3713043.3728860)
 
-Jain, M. & **Sinha,R.** (2017). **"Aakho me chamak" ("Gleam in the eyes")**, a booklet for doing science using simple materials alongside the scientific explanation. [(Hindi)](./assets/pdf/1-2.pdf) [(English)](./assets/pdf/1-1.pdf)
+</article>
+<article class="publication-item" data-publication-topics="ai-methods" markdown="1">
 
-Dhakulkar, A., & **Sinha, R.** (2021, November). The not so random story. Teacher Plus. [https://www.teacherplus.org/the-not-so-random-story/](https://www.teacherplus.org/the-not-so-random-story/)
+**[The Role of Generative AI in Qualitative Research: GPT-4's Contributions to a Grounded Theory Analysis](https://doi.org/10.1145/3663433.3663456)**<br>
+**Ravi Sinha**, Idris Solola, Ha Nguyen, Hillary Swanson, and LuEttaMae Lawrence<br>
+*ACM Symposium on Learning, Design and Technology (LDT '24), 2024*<br>
+[DOI](https://doi.org/10.1145/3663433.3663456)
+
+</article>
+<article class="publication-item" data-publication-topics="engineering-learning" markdown="1">
+
+**[Epistemic Games at the Frontier: A Characterization of Emerging Science and Engineering Practices](https://doi.org/10.22318/icls2024.337675)**<br>
+**Ravi Sinha**, Hillary Swanson, Geetanjali Date, and Sanjay Chandrasekharan<br>
+*18th International Conference of the Learning Sciences (ICLS), 2024 · Short paper*<br>
+[DOI](https://doi.org/10.22318/icls2024.337675)
+
+</article>
+<article class="publication-item" data-publication-topics="computational-learning embodiment-making" markdown="1">
+
+**[From Embodied Doing to Computational Thinking in Kindergarten: A Punctuated Motor Control Model](https://doi.org/10.1145/3594781.3594794)**<br>
+**Ravi Sinha**, Hillary Swanson, Jody Clarke-Midura, Jessica F. Shumway, Victor R. Lee, and Sanjay Chandrasekharan<br>
+*ACM Symposium on Learning, Design and Technology (LDT '23), 2023*<br>
+[PDF](./assets/pdf/ldt23-4-final.pdf) · [DOI](https://doi.org/10.1145/3594781.3594794)
+
+</article>
+<article class="publication-item" data-publication-topics="engineering-learning embodiment-making" markdown="1">
+
+**[Reshaping Makerspaces to Learn Frontier Making Practices](https://episteme9.hbcse.tifr.res.in/wp-content/uploads/2023/04/epi9-proceedings_for_web.pdf)**<br>
+Geetanjali Date, **Ravi Sinha**, and Sanjay Chandrasekharan<br>
+*9th International Conference to Review Research in Science, Technology, Engineering, and Mathematics Education (epiSTEME), 2022*<br>
+[PDF](./assets/pdf/Reshaping_Makerspaces_to_Learn_Frontier.pdf) · [Link](https://episteme9.hbcse.tifr.res.in/wp-content/uploads/2023/04/epi9-proceedings_for_web.pdf)
+
+</article>
+<article class="publication-item" data-publication-topics="engineering-learning embodiment-making" markdown="1">
+
+**[Embodied Learning in Makerspaces](https://library.apsce.net/index.php/ICCE/article/view/4252)**<br>
+**Ravi Sinha**, Geetanjali Date, and Sanjay Chandrasekharan<br>
+*29th International Conference on Computers in Education (ICCE), 2021*<br>
+[PDF](./assets/pdf/icce-2021.pdf) · [Link](https://library.apsce.net/index.php/ICCE/article/view/4252)
+
+</article>
+</div>
 
 ## Projects
+
+### [Amazing Birds](https://amazing-birds.gitlab.io/)
+
+[![Mochi bird automaton prototype](./assets/img/amazing-birds-mochi.png)](https://amazing-birds.gitlab.io/)
+
+An interactive learning environment for exploring avian-inspired engineering through research cases, simulations, prototyping, and reflection activities.
 
 ### [BirdApp](https://birds.hbcse.tifr.res.in/)
 [![](./assets/img/birdapp.png)](https://birds.hbcse.tifr.res.in/)
@@ -43,7 +113,33 @@ Principal Investigator: [Prof Nagarjuna G.](https://www.hbcse.tifr.res.in/people
 [![](./assets/img/tinkerapp.png)](https://tinkerapp.github.io/)
 Collaborator: Vivek Pradhan. A mobile app with curated hands-on science projects; Downloaded by 10000+ educators/children worldwide.
 
-## Outreach
+## Teaching
+
+**Teaching Assistant - eLearning Authoring Tools (ITLS 6245)**<br>
+Department of Instructional Technology and Learning Sciences, Utah State University<br>
+*Summer 2026*
+
+**Instructor - Digital Making and Learning (ITLS 6270/5270)**<br>
+Department of Instructional Technology and Learning Sciences, Utah State University<br>
+*Spring 2026*
+
+## Science Communication
+
+### Popular Writing
+
+**[Nudging Students' Designs](https://publications.azimpremjiuniversity.edu.in/4150/)**<br>
+**Ravi Sinha**, A. K. Pardeshi, and D. Chari<br>
+*I Wonder, Azim Premji University, 8, 42-46, 2022*<br>
+[PDF](./assets/pdf/Nudging_Students_Designs.pdf) · [Link](https://publications.azimpremjiuniversity.edu.in/4150/)
+
+**[The Not So Random Story](https://www.teacherplus.org/the-not-so-random-story/)**<br>
+Amit Dhakulkar and **Ravi Sinha**<br>
+*Teacher Plus, 2021*
+
+**Aakho Me Chamak (Gleam in the Eyes)**<br>
+Manish Jain and **Ravi Sinha**<br>
+*A booklet for doing science using simple materials, 2017*<br>
+[Hindi](./assets/pdf/1-2.pdf) · [English](./assets/pdf/1-1.pdf)
 
 ### Animated Science Communication Videos
 

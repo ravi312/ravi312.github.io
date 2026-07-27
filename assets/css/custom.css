@@ -1,0 +1,175 @@
+/*
+ * Site customizations
+ * Change the values below to adjust colors and typography.
+ */
+
+:root {
+  --text-color: #40464d;
+  --heading-color: #004d40;
+  --link-color: #004d40;
+  --link-hover-color: #d81b60;
+  --accent-color: #1e88e5;
+  --focus-color: #ffc107;
+  --page-background: #fcfcfb;
+  --chip-background: #eef4f2;
+  --chip-border: #a8bdb7;
+}
+
+body {
+  background: var(--page-background);
+  color: var(--text-color);
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--heading-color);
+}
+
+a {
+  color: var(--link-color);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+a:hover,
+a:focus {
+  color: var(--link-hover-color);
+  font-weight: inherit;
+}
+
+a:focus-visible {
+  background: var(--focus-color);
+  color: var(--heading-color);
+  outline: 2px solid var(--heading-color);
+  outline-offset: 2px;
+}
+
+blockquote {
+  border-left: 3px solid var(--accent-color);
+  color: var(--text-color);
+  padding-left: 1rem;
+}
+
+.research-interests {
+  margin: 22px 0;
+}
+
+.research-interests > strong {
+  color: var(--heading-color);
+  display: block;
+  margin-bottom: 9px;
+}
+
+.research-tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.research-tag-list li {
+  align-items: center;
+  background: var(--chip-background);
+  border: 1px solid var(--chip-border);
+  border-radius: 4px;
+  color: var(--heading-color);
+  display: inline-flex;
+  font-size: 15px;
+  line-height: 1.25;
+  padding: 2px 7px;
+}
+
+.publication-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 18px 0 24px;
+}
+
+.publication-filters button {
+  appearance: none;
+  background: var(--page-background);
+  border: 1px solid var(--chip-border);
+  border-radius: 999px;
+  color: var(--heading-color);
+  cursor: pointer;
+  font: inherit;
+  font-size: 15px;
+  line-height: 1.3;
+  min-height: 34px;
+  padding: 6px 11px;
+}
+
+.publication-filters button:hover {
+  border-color: var(--link-hover-color);
+  color: var(--link-hover-color);
+}
+
+.publication-filters button[aria-pressed="true"] {
+  background: var(--heading-color);
+  border-color: var(--heading-color);
+  color: #fff;
+}
+
+.publication-filters button[aria-pressed="true"]:hover {
+  background: var(--heading-color);
+  border-color: var(--heading-color);
+  color: #fff;
+}
+
+.publication-filters button:focus-visible {
+  outline: 3px solid var(--focus-color);
+  outline-offset: 2px;
+}
+
+.publication-item {
+  margin: 0 0 26px;
+}
+
+.publication-item > p {
+  margin: 0;
+}
+
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+.profile-links {
+  display: flex;
+  gap: 16px;
+  margin-top: 22px;
+  font-size: 18px;
+}
+
+.profile-links .ai-google-scholar {
+  font-size: 20px;
+}
+
+.page-toc {
+  margin-top: 28px;
+}
+
+.page-toc ul {
+  list-style: none;
+  padding: 0;
+}
+
+.page-toc li {
+  margin: 6px 0;
+}
+
+.page-toc a {
+  font-size: 16px;
+  line-height: 1.5;
+}
