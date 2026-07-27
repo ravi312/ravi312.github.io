@@ -1,4 +1,4 @@
-<img src=".assets/../assets/img/RS-0224.jpeg" align="right" width="200">
+<img src=".assets/../assets/img/ravi-pic.png" align="right" width="200">
 I'm a doctoral student in the Instructional Technology and Learning Sciences program at Utah State University. I am interested in designing STEM-rich learning environments and pedagogy that foster middle school students' understanding of frontier engineering and science practices. I am curious to explore learning across both formal and informal contexts such as classrooms and makerspaces. Currently, I draw on Embodied Cognition (EC) frameworks to characterize learning as students engage in science and engineering practices.I also enjoy participating in outreach endeavors in science communication.
 
 > **Research Interests** _Embodied Cognition, Makerspaces, Engineering Sciences Education, Computational tinkering, DIY STEM Toys_
