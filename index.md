@@ -9,17 +9,8 @@ In my current work, I use design-based research to examine how middle school stu
 I have taught undergraduate and graduate courses in digital making, learning design, and instructional technology. I also actively participate in science communication endeavors, where I make research and scientific ideas accessible through animated stories, simulations, popular science articles, and hands-on learning experiences.
 
 
-<div class="research-interests" aria-labelledby="research-interests-label">
-  <strong id="research-interests-label">Research Interests</strong>
-  <ul class="research-tag-list">
-    <li>Embodied Cognition</li>
-    <li>Makerspaces</li>
-    <li>Engineering Sciences Education</li>
-    <li>Computational Tinkering</li>
-    <li>DIY STEM Toys</li>
-    <li>Generative AI in Learning Design</li>
-  </ul>
-</div>
+**Research Interests**<br>
+Embodied cognition · Makerspaces · Engineering sciences education · Computational tinkering · DIY STEM toys · Generative AI in learning design
 
 ## Publications
 
