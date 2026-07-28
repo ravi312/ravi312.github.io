@@ -17,26 +17,42 @@
   <body id="top">
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <div class="profile-identity">
+          <div class="profile-photo-frame">
+            <img
+              class="profile-photo"
+              src="{{ "/assets/img/ravi-pic.png" | relative_url }}"
+              alt="Portrait of Ravi Sinha"
+            >
+          </div>
+          <div class="profile-copy">
+            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+            <p>{{ site.description | default: site.github.project_tagline }}</p>
+          </div>
+        </div>
 
         <nav class="profile-links" aria-label="Profile links">
+          <a href="mailto:ravi.sinha@usu.edu">
+            <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+            <span>Email</span>
+          </a>
           <a href="https://scholar.google.com/citations?user=JzOlUSQAAAAJ&hl=en"
              target="_blank"
-             rel="noopener noreferrer"
-             aria-label="Google Scholar"
-             title="Google Scholar">
+             rel="noopener noreferrer">
             <i class="ai ai-google-scholar" aria-hidden="true"></i>
+            <span>Google Scholar</span>
           </a>
-          <a href="mailto:ravi.sinha@usu.edu"
-             aria-label="Email Ravi Sinha"
-             title="Email">
-            <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+          <a href="https://orcid.org/0000-0003-3494-1813"
+             target="_blank"
+             rel="noopener noreferrer">
+            <i class="fa-brands fa-orcid" aria-hidden="true"></i>
+            <span>ORCID</span>
+          </a>
+          <a href="https://github.com/ravi312"
+             target="_blank"
+             rel="noopener noreferrer">
+            <i class="fa-brands fa-github" aria-hidden="true"></i>
+            <span>GitHub</span>
           </a>
         </nav>
 
