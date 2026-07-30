@@ -296,22 +296,23 @@ header {
   .profile-identity {
     align-items: center;
     flex-direction: row;
-    gap: 18px;
+    gap: 14px;
   }
 
   .profile-photo-frame {
     aspect-ratio: auto;
-    flex: 0 0 108px;
-    height: 90px;
+    flex: 0 0 96px;
+    height: 80px;
     margin: 0;
-    width: 108px;
+    width: 96px;
   }
 
   .profile-copy h1 {
-    margin-bottom: 6px;
+    margin-bottom: 4px;
   }
 
   .profile-copy {
+    min-width: 0;
     text-align: left;
   }
 
@@ -321,9 +322,29 @@ header {
 
   .profile-links {
     display: grid;
-    gap: 6px 22px;
+    gap: 4px 18px;
     grid-template-columns: repeat(2, minmax(0, max-content));
+    margin-top: 14px;
+  }
+
+  .page-toc {
     margin-top: 18px;
+    width: 100%;
+  }
+
+  .page-toc ul {
+    display: grid;
+    gap: 6px 20px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin: 0;
+  }
+
+  .page-toc li {
+    margin: 0;
+  }
+
+  .page-toc li:last-child {
+    grid-column: 1 / -1;
   }
 
   .research-interest-list {
