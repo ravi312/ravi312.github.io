@@ -148,6 +148,9 @@ Manish Jain and **Ravi Sinha**<br>
 *A booklet for doing science using simple materials, 2017*<br>
 [Hindi](./assets/pdf/1-2.pdf) · [English](./assets/pdf/1-1.pdf)
 
+**[STEAMboat, Season 1](https://steamboat.hbcse.tifr.res.in/season.php?s=Season1)**<br>
+I helped initiate STEAMboat and served on its core team during Season 1. The HBCSE, TIFR online popular science series offered interactive STEAM sessions in English and regional Indian languages.
+
 ### Animated Science Communication Videos
 
 I worked on the following collection of animated popular science videos: [Playlist](https://www.youtube.com/watch?v=b0NM_mjo7QE&list=PLTtqYIBJI7Zd2itCZNZVNRgToOwJFhYGs)
